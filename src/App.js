@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="row">
         <div className="col-lg-12">
-          <h2>Welcome  to the  </h2>
+          <h2 className="lead">Welcome  to the  </h2>
           <form>
             <input  className="form-group "type="text" name="name"/>
             </form>
